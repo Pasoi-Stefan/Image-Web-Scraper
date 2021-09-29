@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "extract images using search engines image section",
+  "main": "index.js",
+  "dependencies": {
+    "async-mutex": "^0.3.1",
+    "delay": "^5.0.0",
+    "fastest-levenshtein": "^1.0.12",
+    "got": "^11.8.2",
+    "imghash": "0.0.8",
+    "mnemonist": "^0.38.3",
+    "p-queue": "^6.6.2",
+    "puppeteer": "^7.1.0",
+    "sharp": "^0.28.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "fswin": "^3.21.107"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
